@@ -1,0 +1,21 @@
+{
+  "name": "snyk-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenxinmao/snyk-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenxinmao/snyk-test/issues"
+  },
+  "homepage": "https://github.com/wenxinmao/snyk-test#readme"
+  "devDependencies":{
+  "node-sass":"^4.14.1"
+}
