@@ -6,7 +6,7 @@ patch:
   SNYK-JS-LODASH-567746:
     - '@testing-library/jest-dom > lodash':
         patched: '2020-07-15T20:53:39.643Z'
-    - eslint > lodash:
+    - eslint > lodash
         patched: '2020-07-15T20:53:39.643Z'
     - eslint-plugin-flowtype > lodash:
         patched: '2020-07-15T20:53:39.643Z'
