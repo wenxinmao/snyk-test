@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@babel/core": "7.10.5",
-    "@svgr/webpack": "5.4.0",
+    "@svgr/webpack": "6.0.0",
     "@testing-library/jest-dom": "^5.11.2",
     "@testing-library/react": "^10.4.7",
     "@testing-library/user-event": "^12.0.17",
@@ -38,7 +38,7 @@
     "jest-watch-typeahead": "0.6.0",
     "lodash": "4.17.19",
     "mini-css-extract-plugin": "0.9.0",
-    "optimize-css-assets-webpack-plugin": "5.0.3",
+    "optimize-css-assets-webpack-plugin": "5.0.5",
     "pnp-webpack-plugin": "1.6.4",
     "postcss-flexbugs-fixes": "4.2.1",
     "postcss-loader": "3.0.0",
